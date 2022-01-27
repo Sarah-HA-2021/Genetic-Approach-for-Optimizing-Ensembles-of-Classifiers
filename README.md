@@ -1,7 +1,6 @@
-# Presentaion 
-## https://docs.google.com/presentation/d/1CIMDTWzlHKhWq7N9QMuG-C5fsPaubbW0mEa4cB_Kge4/edit?usp=sharing
-# Intermediate Report could be find here
-## https://docs.google.com/document/d/1u4iBhP3JNajaTbTHPQuOj6nZ1GCrqOiH5yGzxU3hWkk/edit?usp=sharing
+# This repositry is an implementation of 
+"Genetic Approach for Optimizing Ensembles of Classifiers" (Fr. J. Ordóñez, et.al., Proceedings of the Twenty-First International FLAIRS Conference, 2008)
+
 
 # Genetic Approach for Optimizing Ensembles of Classifiers
 
