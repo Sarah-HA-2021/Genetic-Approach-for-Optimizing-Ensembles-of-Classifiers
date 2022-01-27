@@ -1,4 +1,4 @@
-# This repositry is an implementation of 
+# This repository is an implementation of 
 "Genetic Approach for Optimizing Ensembles of Classifiers" (Fr. J. Ordóñez, et.al., Proceedings of the Twenty-First International FLAIRS Conference, 2008)
 
 
