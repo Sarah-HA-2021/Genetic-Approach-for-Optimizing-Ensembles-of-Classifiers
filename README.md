@@ -6,7 +6,7 @@
 
 ## Warm up 
 ### Ensemble Learning 
-As we have seen during our course, ensemble learning is a machine learning technique that combines several base models in order to produce one optimal predictive model.
+Ensemble learning is a machine learning technique that combines several base models in order to produce one optimal predictive model.
 
 ## Problem  this paper is solving 
 It is common in the research on this topic to select by hand :
